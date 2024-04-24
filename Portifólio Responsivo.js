@@ -1,5 +1,4 @@
 
-// Portifólio Responsivo.js
 
 document.addEventListener('DOMContentLoaded', () => {
     const toggle = document.querySelector("#toggle");
